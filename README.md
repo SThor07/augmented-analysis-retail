@@ -78,5 +78,6 @@ Data visualization and reporting
 Clean code, documentation, and reproducibility
 
 ## Screenshots
-final-result-1.png
-final-result-2.png
+
+![Final Result 1](images/final-result-1.png)
+![Final Result 2](images/final-result-2.png)
