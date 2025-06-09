@@ -1,4 +1,4 @@
-# 🧠 Retail Augmented Analytics Dashboard
+# Retail Augmented Analytics Dashboard
 
 **Modern Business Intelligence • Automated Insights • Python + Streamlit**
 
@@ -79,5 +79,6 @@ Clean code, documentation, and reproducibility
 
 ## Screenshots
 
-![Final Result 1](images/final-result-1.png)
-![Final Result 2](images/final-result-2.png)
+![Final Result 1](final-result-1.png)
+![Final Result 2](final-result-2.png)
+
